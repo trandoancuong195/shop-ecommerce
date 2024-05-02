@@ -1,5 +1,5 @@
 import React from "react";
-import StarRatingComponent from "react-star-rating-component";
+// import StarRatingComponent from "react-star-rating-component";
 import { useLanguage } from "../../hooks/useLanguage";
 import { IProduct } from "../../lib/types/products";
 import CallToAction from "./CallToAction";
@@ -19,11 +19,11 @@ const DetailsSection: React.FC<Props> = ({ product }) => {
       <div className="flex items-start flex-wrap relative">
         <div className="flex-grow mt-6">
           <div className="flex items-center self-center">
-            <StarRatingComponent
-              name="product_rate"
-              starCount={5}
-              value={product.starRating}
-            />
+            {/*<StarRatingComponent*/}
+            {/*  name="product_rate"*/}
+            {/*  starCount={5}*/}
+            {/*  value={product.starRating}*/}
+            {/*/>*/}
             <p className="text-sm text-palette-mute rtl:mr-2 ltr:ml-2">
               {product.starRating} {t.stars}
             </p>
