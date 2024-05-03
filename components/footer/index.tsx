@@ -28,7 +28,7 @@ const Footer = () => {
               display: "inline",
             }}
           />
-          {locale !== "fa" ? "by Zahra Mirzaei" : "توسط زهرا میرزایی"}
+          CRIS
         </div>
         <div className="py-1">
           <StartQuot
@@ -55,7 +55,7 @@ const Footer = () => {
             rel="noopener noreferrer"
             className="text-palette-side underline font-bold bg-upos-default px-2"
           >
-            CafeDX
+            UPOS FIGHTING
           </a>
         </div>
       </div>

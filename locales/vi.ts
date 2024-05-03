@@ -159,7 +159,7 @@ const vi: { [key: string]: string } = {
   yourEmail: "Vui lòng nhập Email của bạn",
   register: "Đăng ký",
   copyRight:
-      "© 2022 UpShop. Tất cả các quyền được bảo lưu - Thiết kế và Phát triển bởi ",
+      "© 2024 UpShop. Tất cả các quyền được bảo lưu - Thiết kế và Phát triển bởi ",
   sort: "Sắp xếp dựa trên: ",
   all: "Tất cả",
   newestProducts: "Mới nhất",

@@ -161,7 +161,7 @@ const en: { [key: string]: string } = {
   yourEmail: "Please Enter Your Email",
   register: "Register",
   copyRight:
-    "© 2022 UpShop. All rights reserved - Designed and Developed with ",
+    "© 2024 UpShop. All rights reserved - Designed and Developed with ",
   sort: "Sort based on: ",
   all: "All",
   newestProducts: "Newest",
